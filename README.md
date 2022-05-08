@@ -3,9 +3,13 @@
 ## イメージ画像
 
 - chrome
--
+<img width="391" alt="image" src="https://user-images.githubusercontent.com/99580997/167301500-bc202ec3-10b3-47b6-9571-b086de53117a.png">
+<img width="779" alt="image" src="https://user-images.githubusercontent.com/99580997/167301529-107d07de-e19b-43c8-89fe-968e08af7c0e.png">
+<img width="946" alt="image" src="https://user-images.githubusercontent.com/99580997/167301554-c3ee0ba4-0c45-4677-9eef-e06da7a06f08.png">
+
 - safari
--
+<img width="814" alt="image" src="https://user-images.githubusercontent.com/99580997/167301582-f3f6b71d-038a-4fb5-9a5e-d292b5a96a2b.png">
+
 
 ## 概要
 
@@ -31,10 +35,14 @@
 ## w3c html チェック結果
 
 - https://validator.w3.org/nu/
+- <img width="749" alt="image" src="https://user-images.githubusercontent.com/99580997/167301626-5e5f4f03-218a-4eb5-a268-9bc27dc816c0.png">
+
 
 ## w3c css チェック結果
 
 - https://jigsaw.w3.org/css-validator/
+- <img width="815" alt="image" src="https://user-images.githubusercontent.com/99580997/167301636-78e7642c-99ed-4ee2-b644-d9c5cc800188.png">
+
 
 ## portfolio url:
 
