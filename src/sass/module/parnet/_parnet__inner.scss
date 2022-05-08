@@ -1,0 +1,23 @@
+@use "global" as *;
+.parent__inner {
+  display: flex;
+  flex-wrap: wrap;
+  width: rem(600);
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}
+
+.child {
+  box-sizing: border-box;
+  border: 5px solid #fff;
+  flex-basis: rem(200);
+  padding: rem(0);
+  background-color: #ff838b;
+
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

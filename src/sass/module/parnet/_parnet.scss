@@ -1,0 +1,8 @@
+@use "global" as *;
+.parent {
+  display: inline-block;
+  @include mq(md) {
+  }
+  @include mq(xl) {
+  }
+}

@@ -38,16 +38,18 @@
 
 ## portfolio url:
 
-- https://c-0000.wtb.cfbx.jp/
-- https://css-md-0000.wtb.cfbx.jp/
+- https://c-0066.wtb.cfbx.jp/
 
 ## 参考にしたサイト
 
-- xxx
+- flex-basis プロパティの意味と使い方
+- https://dekiru.net/article/13239/
+- CSS Flexbox 各プロパティの使い方を詳しく解説
+- https://tinyurl.com/yanxj5yp
 
 ## 更新履歴
 
-- 2022/mm/dd 初版 作成完了
+- 2022/5/8 理解した。模擬案件の方で試してみる。
 
 ## 環境・使い方
 
